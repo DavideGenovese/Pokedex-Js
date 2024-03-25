@@ -1,6 +1,7 @@
 # Pokedex con PokeAPI
 
-![Screenshot 2024-03-16 164232](https://github.com/DavideGenovese/Pokedex_HTML_TailWindCSS_JavaScript/assets/157692968/9bb270d4-3cea-4c4b-a043-48ad3adb90dc)
+![Screenshot 2024-03-16 164232](https://github.com/DavideGenovese/Pokedex_HTML_JavaScript_TailWindCSS/assets/157692968/abc85e40-2711-4f2c-9803-8c58cd6d23cd)
+
 
 ## Introduzione
 Questo Pokedex è un'applicazione web che permette agli utenti di visualizzare informazioni sui Pokemon utilizzando la PokeAPI.     
